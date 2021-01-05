@@ -2,7 +2,7 @@
   "name": "shopify-frontend-challenge",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://walkingpizza.github.io/shopify-frontend-challenge/",
+  "homepage": ".",
   "dependencies": {
     "@shopify/polaris": "^5.12.0",
     "@testing-library/jest-dom": "^5.11.4",
