@@ -23,4 +23,4 @@ Ideas I would have liked to implement, but decided not to for the time being.
 - Calculate the average score of the five nominations picked by a user and define whether their selection is _Poor_, _Average_ or _Good_ depending on the range to which the average belongs. This should also serve as a way for users to understand how poor their taste in movies is, [_How Bad Is Your Spotify?_](https://pudding.cool/2020/12/judge-my-spotify/) docet.
 - Migrate everything to functional components. Because they are the future today, but if Facebook has taught me anything with their A/B tests, everything's gonna change tomorrow.
 - Shortening sharable links via [Cutt.ly](https://cutt.ly/)'s API. I know the current ones are ugly, I am sorry.
-- Write tests with [Jest](jestjs.io) and [Enzyme](https://enzymejs.github.io/) because I want. Future work because it is known that college students and recent graduates don't test.
+- Write tests with [Jest](jestjs.io). Future work because it is known that college students and recent graduates don't test.
