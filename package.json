@@ -2,6 +2,7 @@
   "name": "shopify-frontend-challenge",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://walkingpizza.github.io/shopify-frontend-challenge/",
   "dependencies": {
     "@shopify/polaris": "^5.12.0",
     "@testing-library/jest-dom": "^5.11.4",
@@ -22,7 +23,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "deploy": "firebase deploy"
+    "predeploy": "react-scripts build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -44,6 +46,7 @@
   },
   "devDependencies": {
     "@types/node": "^12.19.11",
-    "@types/react-router-dom": "^5.1.7"
+    "@types/react-router-dom": "^5.1.7",
+    "gh-pages": "^3.1.0"
   }
 }
