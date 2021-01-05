@@ -1,0 +1,10 @@
+.Polaris-ResourceItem:hover, .Polaris-ResourceItem:active {
+  background-image: none !important;
+  cursor: auto;
+}
+
+@media print {
+  .Polaris-Button {
+    display: none;
+  }
+}
