@@ -1,6 +1,6 @@
 # Shopify Web Developer Intern Challenge
 
-This application was created by Kevin Antonio Rateni Iatauro for January 2021 edition of the Shopify Web Developer Intern Challenge. It was made with <3 and a tiny hint of sarcasm.
+This application was created by Kevin Antonio Rateni Iatauro for January 2021 edition of the Shopify Web Developer Intern Challenge. It was made with :heart: and a tiny hint of sarcasm.
 
 ## Installation
 Use [npm](https://www.npmjs.com/) to install the required packages, indicated in the ```package.json``` file.
