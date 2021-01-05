@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,yDACE,+BAAiC,CACjC,WACF,CAEA,aACE,gBACE,YACF,CACF","file":"main.5c139243.chunk.css","sourcesContent":[".Polaris-ResourceItem:hover, .Polaris-ResourceItem:active {\n  background-image: none !important;\n  cursor: auto;\n}\n\n@media print {\n  .Polaris-Button {\n    display: none;\n  }\n}\n"]}
