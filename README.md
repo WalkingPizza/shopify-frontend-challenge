@@ -1,6 +1,6 @@
 # Shopify Web Developer Intern Challenge
 
-This application was created by Kevin Antonio Rateni Iatauro for January 2021 edition of the Shopify Web Developer Intern Challenge. It was made with :heart: and a tiny hint of sarcasm.
+This application was created by Kevin Antonio Rateni Iatauro for the January 2021 edition of the Shopify Web Developer Intern Challenge. It was made with :heart: and a tiny hint of sarcasm.
 
 ## Preview
 You can preview the app [here](https://sfc-kevin.web.app/).
